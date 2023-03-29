@@ -44,6 +44,10 @@ body {
     font-size: 16px;
 }
 
+.logo {
+    justify-content: center;
+}
+
 .localization > div.description {
     margin-top: 16px;
     margin-left: 10px;
@@ -54,9 +58,9 @@ body {
     margin-left: 10px;
 }
 
-.email {
+/* .email {
     margin-right: 30px;
-}
+} */
 
 
 .menu {
