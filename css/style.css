@@ -87,6 +87,7 @@ body {
     height: 100%;
     position: relative;
     flex-grow: 1;
+    min-height: 210px;
 }
 
 .picture div.title {
